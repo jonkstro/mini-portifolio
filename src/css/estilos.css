@@ -97,7 +97,7 @@ body{
 .informacoes-abas .descricao{
     font-size: 20px;
     max-height: 180px;
-    overflow-y: auto;
+    overflow-y: scroll;
     padding-right: 15px;
 }
 
